@@ -1,5 +1,5 @@
 # GAITDataset
-GAIT pattern Dataset (indian)
+GAIT Pattern Dataset (indian)
 
 [Neeraj Baghel](https://sites.google.com/view/nbaghel777) ,Chandrasen Panday,  M.K. Dutta 
 
