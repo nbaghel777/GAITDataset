@@ -1,8 +1,8 @@
 # GAITDataset
 GAIT pattern Dataset (indian)
-
 [Neeraj Baghel](https://sites.google.com/view/nbaghel777) ,Chandrasen Panday,  M.K. Dutta 
 
+Download [link](https://drive.google.com/drive/folders/1HAuGsq-Eozrsvm2x2FMAa-Ewx-33fbnl?usp=sharing)
 
 # Citation
 If you use this Dataset for Educational Purpose then please cite:
