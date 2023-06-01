@@ -3,8 +3,7 @@ GAIT Pattern Dataset (indian)
 
 [Neeraj Baghel](https://sites.google.com/view/nbaghel777) ,Chandrasen Panday,  M.K. Dutta 
 
-The Gait dataset is collected from Dr. Shakuntala Misra National Rehabilitation University, India, and was found 30-40% of people are infected with a different kind of back pain. The dataset is collected from The Proto Kinetics Zeno Walkway Gait Analysis System. Also, Proto Kinetics
-Movement Analysis Software is used that can effortlessly record and outputs temporal, spatial, and pressure measurements for various protocols. All data are stored in the form of an XML format that can be used to examine the gait of a subject.
+The Gait dataset is collected while working in Centre for Advanced Studies, Lucknow from Dr. Shakuntala Misra National Rehabilitation University, India and Dr. A. P. J. Abdul Kalam Technical University, Lucknow. The dataset is collected from The Proto Kinetics Zeno Walkway Gait Analysis System. Also, Proto Kinetics Movement Analysis Software is used that can effortlessly record and outputs temporal, spatial, and pressure measurements for various protocols. All data are stored in the form of an XML format that can be used to examine the gait of a subject.
 
 The Gait monitor system contains a pressure sensing pad with dual control the sensor is embedded in a base layer, surrounded by a bevelled edge, the sensing pad connected with a system that analyses and record the sensor values and a camera set.
 
