@@ -8,7 +8,7 @@ Movement Analysis Software is used that can effortlessly record and outputs temp
 
 The Gait monitor system contains a pressure sensing pad with dual control the sensor is embedded in a base layer, surrounded by a bevelled edge, the sensing pad connected with a system that analyses and record the sensor values and a camera set.
 
-Download [link](https://drive.google.com/drive/folders/1HAuGsq-Eozrsvm2x2FMAa-Ewx-33fbnl?usp=sharing)
+Download. [link](https://drive.google.com/drive/folders/1HAuGsq-Eozrsvm2x2FMAa-Ewx-33fbnl?usp=sharing)
 
 
 # Citation
