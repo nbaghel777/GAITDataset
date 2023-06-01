@@ -4,7 +4,7 @@ GAIT pattern Dataset (indian)
 [Neeraj Baghel](https://sites.google.com/view/nbaghel777) ,Chandrasen Panday,  M.K. Dutta 
 
 # Citation
-If you use PTSR, please consider citing:
+If you use this Dataset, please cite:
 
 Chandrasen Pandey, Neeraj Baghel, Malay Kishore-Dutta, and Carlos M. Travieso González. "Automatic diagnosis of lower back pain using gait patterns." Revista Tecnología en Marcha (2022): ág-93.
 
