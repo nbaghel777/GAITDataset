@@ -1,9 +1,8 @@
 # GAITDataset 
-## Download. [link](https://drive.google.com/drive/folders/1HAuGsq-Eozrsvm2x2FMAa-Ewx-33fbnl?usp=sharing)
-
 GAIT Pattern Dataset (indian)
-
 [Neeraj Baghel](https://sites.google.com/view/nbaghel777) ,Chandrasen Panday,  M.K. Dutta 
+
+## Download. [link](https://drive.google.com/drive/folders/1HAuGsq-Eozrsvm2x2FMAa-Ewx-33fbnl?usp=sharing)
 
 The Gait dataset is collected while working in Centre for Advanced Studies, Lucknow from Dr. Shakuntala Misra National Rehabilitation University, India and Dr. A. P. J. Abdul Kalam Technical University, Lucknow. The dataset is collected from The Proto Kinetics Zeno Walkway Gait Analysis System. Also, Proto Kinetics Movement Analysis Software is used that can effortlessly record and outputs temporal, spatial, and pressure measurements for various protocols. All data are stored in the form of an XML format that can be used to examine the gait of a subject.
 
